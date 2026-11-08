@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "versionCode": 72,
+  "versionName": "4.0.2-malayali.22",
+  "releaseNumber": 22,
+  "releasedAt": "2026-11-08",
+  "apkUrl": "https://github.com/Malayalihere77/malayali-downloads/releases/download/v22/MALAYALI-time-fixer-v22.apk",
+  "sizeBytes": 12988287,
+  "sha256": "6bd3d090adbf25bf18afd13ff132e5521332ab566e48d106ecde8699d672d908",
+  "notes": "V22: transparent BGMI crest app icon, new red eye front-window logo, and direct Android update downloads without opening GitHub pages. Tap the completed download notification to install. Existing floating controls retained. Build and matching signature verified; phone testing pending.",
+  "changes": [
+    "V22: transparent BGMI crest app icon, new red eye front-window logo, and direct Android update downloads without opening GitHub pages. Tap the completed download notification to install. Existing floating controls retained. Build and matching signature verified; phone testing pending."
+  ]
+}
